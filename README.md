@@ -1,5 +1,5 @@
 This Python Challenge encompasses two projects:
-...
+..
 PyBank
 This project runs a Python script for analyzing the financial records of a company Using a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. The results identify the following:
   - The total number of months included in the dataset
